@@ -1,0 +1,395 @@
+{
+    "things": [
+        {
+            "id": 1,
+            "name": "Кредиты",
+            "descr": "Кредиты",
+            "img": "",
+            "type": 1,
+            "slot": 0,
+            "price": "{0, 0}",
+            "party": 1
+        },
+        {
+            "id": 2,
+            "name": "Монеты войны",
+            "descr": "Монеты войны",
+            "img": "",
+            "type": 2,
+            "slot": 1,
+            "price": "{0, 1}",
+            "party": 8000
+        },
+        {
+            "id": 3,
+            "name": "Премиум аккаунт",
+            "descr": "Премиум аккаунт",
+            "img": "",
+            "type": 3,
+            "slot": 0,
+            "price": "{0, 14}",
+            "party": 7
+        },
+        {
+            "id": 100,
+            "name": "Напалм",
+            "descr": "[b]Напалм[/b] [br]Полностью обновляет поле фишек.",
+            "img": "res/images/bonuses/0.png",
+            "type": 100,
+            "slot": 0,
+            "price": "{100, 0}",
+            "party": 1
+        },
+        {
+            "id": 101,
+            "name": "Крест",
+            "descr": "[b]Крест[/b] [br]Уничтожает 2 линии фишек – по горизонтали[br]и по вертикали.",
+            "img": "res/images/bonuses/1.png",
+            "type": 100,
+            "slot": 1,
+            "price": "{150, 0}",
+            "party": 1
+        },
+        {
+            "id": 102,
+            "name": "Рикошет",
+            "descr": "[b]Рикошет[/b] [br]Уничтожает 15 случайных фишек.",
+            "img": "res/images/bonuses/2.png",
+            "type": 100,
+            "slot": 2,
+            "price": "{200, 0}",
+            "party": 1
+        },
+        {
+            "id": 103,
+            "name": "Атака",
+            "descr": "[b]Атака[/b][br]Наносит урон всем родам войск противника.",
+            "img": "res/images/bonuses/3.png",
+            "type": 100,
+            "slot": 3,
+            "price": "{150, 0}",
+            "party": 1
+        },
+        {
+            "id": 104,
+            "name": "Защита",
+            "descr": "[b]Защита[/b] [br]Усиливает все ваши рода войск.",
+            "img": "res/images/bonuses/4.png",
+            "type": 100,
+            "slot": 4,
+            "price": "{200, 0}",
+            "party": 1
+        },
+        {
+            "id": 105,
+            "name": "Свобода",
+            "descr": "[b]Свобода[/b] [br]Дает дополнительный ход.",
+            "img": "res/images/bonuses/5.png",
+            "type": 100,
+            "slot": 5,
+            "price": "{100, 0}",
+            "party": 1
+        },
+        {
+            "id": 1000,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/0.png",
+            "type": 1000,
+            "slot": 0,
+            "price": "{100, 0}",
+            "party": 1
+        },
+        {
+            "id": 1001,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/1.png",
+            "type": 1000,
+            "slot": 1,
+            "price": "{100, 0}",
+            "party": 1
+        },
+        {
+            "id": 1002,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/2.png",
+            "type": 1000,
+            "slot": 2,
+            "price": "{600, 0}",
+            "party": 1
+        },
+        {
+            "id": 1003,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/3.png",
+            "type": 1000,
+            "slot": 3,
+            "price": "{600, 0}",
+            "party": 1
+        },
+        {
+            "id": 1004,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/4.png",
+            "type": 1000,
+            "slot": 4,
+            "price": "{600, 0}",
+            "party": 1
+        },
+        {
+            "id": 1005,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/5.png",
+            "type": 1000,
+            "slot": 4,
+            "price": "{600, 0}",
+            "party": 1
+        },
+        {
+            "id": 1006,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/6.png",
+            "type": 1000,
+            "slot": 5,
+            "price": "{800, 0}",
+            "party": 1
+        },
+        {
+            "id": 1007,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/7.png",
+            "type": 1000,
+            "slot": 6,
+            "price": "{800, 0}",
+            "party": 1
+        },
+        {
+            "id": 1008,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/8.png",
+            "type": 1000,
+            "slot": 7,
+            "price": "{800, 0}",
+            "party": 1
+        },
+        {
+            "id": 1009,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/9.png",
+            "type": 1000,
+            "slot": 8,
+            "price": "{800, 0}",
+            "party": 1
+        },
+        {
+            "id": 1010,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/10.png",
+            "type": 1000,
+            "slot": 9,
+            "price": "{800, 0}",
+            "party": 1
+        },
+        {
+            "id": 1011,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/11.png",
+            "type": 1000,
+            "slot": 4,
+            "price": "{800, 0}",
+            "party": 1
+        },
+        {
+            "id": 1012,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/12.png",
+            "type": 1000,
+            "slot": 4,
+            "price": "{800, 0}",
+            "party": 1
+        },
+        {
+            "id": 1013,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/13.png",
+            "type": 1000,
+            "slot": 4,
+            "price": "{800, 0}",
+            "party": 1
+        },
+        {
+            "id": 1014,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/14.png",
+            "type": 1000,
+            "slot": 4,
+            "price": "{1000, 0}",
+            "party": 1
+        },
+        {
+            "id": 1015,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/15.png",
+            "type": 1000,
+            "slot": 4,
+            "price": "{1000, 0}",
+            "party": 1
+        },
+        {
+            "id": 1016,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/16.png",
+            "type": 1000,
+            "slot": 4,
+            "price": "{1000, 0}",
+            "party": 1
+        },
+        {
+            "id": 1017,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/17.png",
+            "type": 1000,
+            "slot": 4,
+            "price": "{1000, 0}",
+            "party": 1
+        },
+        {
+            "id": 1018,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/18.png",
+            "type": 1000,
+            "slot": 4,
+            "price": "{1000, 0}",
+            "party": 1
+        },
+        {
+            "id": 1019,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/19.png",
+            "type": 1000,
+            "slot": 4,
+            "price": "{1000, 0}",
+            "party": 1
+        },
+        {
+            "id": 1020,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/20.png",
+            "type": 1000,
+            "slot": 4,
+            "price": "{1000, 0}",
+            "party": 1
+        },
+        {
+            "id": 1021,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/21.png",
+            "type": 1000,
+            "slot": 4,
+            "price": "{1000, 0}",
+            "party": 1
+        },
+        {
+            "id": 1022,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/22.png",
+            "type": 1000,
+            "slot": 4,
+            "price": "{1000, 0}",
+            "party": 1
+        },
+        {
+            "id": 1023,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/23.png",
+            "type": 1000,
+            "slot": 4,
+            "price": "{1000, 0}",
+            "party": 1
+        },
+        {
+            "id": 1024,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/24.png",
+            "type": 1000,
+            "slot": 4,
+            "price": "{1000, 0}",
+            "party": 1
+        },
+        {
+            "id": 1025,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/25.png",
+            "type": 1000,
+            "slot": 4,
+            "price": "{1000, 0}",
+            "party": 1
+        },
+        {
+            "id": 1026,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/26.png",
+            "type": 1000,
+            "slot": 4,
+            "price": "{1000, 0}",
+            "party": 1
+        },
+        {
+            "id": 1027,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/27.png",
+            "type": 1000,
+            "slot": 4,
+            "price": "{1000, 0}",
+            "party": 1
+        },
+        {
+            "id": 1028,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/28.png",
+            "type": 1000,
+            "slot": 4,
+            "price": "{1000, 0}",
+            "party": 1
+        },
+        {
+            "id": 1029,
+            "name": "Аватар",
+            "descr": "",
+            "img": "res/images/avatars/29.png",
+            "type": 1000,
+            "slot": 4,
+            "price": "{1000, 0}",
+            "party": 1
+        }
+
+    ]
+}
